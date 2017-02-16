@@ -1,3 +1,2 @@
 # jianli
-我的简历
-demo:https://jasonwei-cn.github.io/jianli/
+我的简历demo：https：//whqme.github.io/CV
